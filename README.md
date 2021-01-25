@@ -97,10 +97,10 @@ sh train.sh
 ## Citation
 please cite as:
 ```bibtex
-@article{li2020shallow,
-  title={Shallow-to-Deep Training for Neural Machine Translation},
-  author={Li, Bei and Wang, Ziyang and Liu, Hui and Jiang, Yufan and Du, Quan and Xiao, Tong and Wang, Huizhen and Zhu, Jingbo},
-  journal={arXiv preprint arXiv:2010.03737},
+@article{li2020learning,
+  title={Learning Light-Weight Translation Models from Deep Transformer},
+  author={Li, Bei and Wang, Ziyang and Liu, Hui and Du, Quan and Xiao, Tong and Zhang, Chunliang and Zhu, Jingbo},
+  journal={arXiv preprint arXiv:2012.13866},
   year={2020}
 }
 ```
@@ -257,18 +257,5 @@ We also have more detailed READMEs to reproduce results from specific papers:
 * Google group: https://groups.google.com/forum/#!forum/fairseq-users
 
 # License
-fairseq(-py) is MIT-licensed.
-The license applies to the pre-trained models as well.
+fairseq(-py) is BSD-licensed. The license applies to the pre-trained models as well. We also provide an additional patent grant.
 
-# Citation
-
-Please cite as:
-
-```bibtex
-@article{li2020learning,
-  title={Learning Light-Weight Translation Models from Deep Transformer},
-  author={Li, Bei and Wang, Ziyang and Liu, Hui and Du, Quan and Xiao, Tong and Zhang, Chunliang and Zhu, Jingbo},
-  journal={arXiv preprint arXiv:2012.13866},
-  year={2020}
-}
-```
